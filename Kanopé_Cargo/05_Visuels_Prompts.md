@@ -64,7 +64,7 @@ A modular student housing project composed of 30 shipping containers, arranged i
 
 ## 🖼️ Images déjà générées
 
-[[Kanopé Cargo Résidence.png]]
+![[Kanopé Cargo Résidence.png]]
 
 ---
 
