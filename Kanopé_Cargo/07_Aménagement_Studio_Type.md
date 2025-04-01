@@ -1,6 +1,6 @@
 # 🛋️ Aménagement Studio Type – Kanopé Cargo
 
-> Version optimisée de l’aménagement intérieur d’un container 40’, avec un agencement fluide, des zones fonctionnelles linéaires et un éclairage naturel bien réparti.
+> Version optimisée d’un studio aménagé dans un container 40’, avec **entrée latérale centrale**, pensée pour casser l’effet couloir et mieux séparer les espaces de vie.
 
 ---
 
@@ -15,48 +15,58 @@
 
 ---
 
-## 🧩 Répartition fonctionnelle (de gauche à droite)
+## 🧩 Répartition fonctionnelle – Entrée latérale au centre
 
-| Zone                  | Longueur estimée | Contenu principal                          |
-|------------------------|------------------|---------------------------------------------|
-| Entrée + Kitchenette   | 0 – 2,80 m       | Meuble linéaire, placards hauts, fenêtre    |
-| Salle d’eau            | 2,80 – 4,20 m    | Douche, WC, vasque, petite fenêtre haute    |
-| Espace jour/nuit       | 4,20 – 10,80 m   | Lit mezzanine ou banquette, table, étagères |
-| Rangements intégrés    | 10,80 – 11,70 m  | Placards, armoire, tableau technique         |
-
----
-
-## 🚪 Ouvertures & lumière naturelle
-
-| Élément         | Position              | Dimensions approximatives   | Détails                        |
-|------------------|------------------------|-------------------------------|--------------------------------|
-| **Porte d’entrée** | Façade courte gauche   | 90 cm                         | Porte simple ou vitrée         |
-| **Fenêtre cuisine** | Façade longue gauche (zone 0–2,5 m) | 60 × 80 cm                | Au-dessus du plan de travail   |
-| **Fenêtre salle d’eau** | Façade longue gauche (zone 3 m)   | 40 × 40 cm (haute)         | Fenêtre basculante opaque      |
-| **Baie vitrée principale** | Façade courte droite (zone séjour) | 160 × 200 cm (2 vantaux)   | Vue sur cour, accès extérieur  |
-| **Option** : fenêtre latérale séjour | Façade longue droite (zone 6–8 m) | 100 × 80 cm | Lumière traversante (si terrain adapté) |
-
-✅ **Orientation recommandée** : baie vitrée sud / sud-est pour maximiser les apports solaires en hiver.
+| Zone             | Position approximative (longueur) | Description                                  |
+|------------------|------------------------------------|----------------------------------------------|
+| **Espace nuit**  | 0 – 4,0 m                          | Lit 120 cm, placards hauts, ambiance calme   |
+| **Entrée centrale + Cuisine** | 4,0 – 7,2 m           | Porte latérale, meuble cuisine 2 m, rangements |
+| **Salle d’eau**  | 6,0 – 7,2 m (dans la zone centrale) | Douche, WC, vasque, cloison coulissante     |
+| **Espace jour**  | 7,2 – 11,70 m                      | Banquette convertible, table pliante, baie vitrée |
 
 ---
 
-## 🛋️ Mobilier recommandé
+## 🚪 Ouvertures et lumière naturelle
 
-- Lit 120 cm mezzanine ou banquette
-- Table murale rabattable + 2 assises
-- Cuisine 2 m avec frigo, évier, plaques
-- Placards hauts ou bibliothèque modulaire
-- Bureau compact sous lit ou en retour
+| Élément                 | Emplacement             | Dimensions | Détail                           |
+|--------------------------|--------------------------|------------|----------------------------------|
+| **Porte d’entrée**       | Latérale, centre gauche  | 90 cm      | Porte vitrée simple ou bois      |
+| **Fenêtre cuisine**      | Façade gauche, zone 5 m  | 60 × 80 cm | Au-dessus plan de travail        |
+| **Baie vitrée séjour**   | Façade droite (zone 10 m)| 160 × 200 cm | Vue sur cour, accès extérieur |
+| **Fenêtre espace nuit**  | Façade gauche (zone 1 m) | 100 × 80 cm | Fenêtre fixe ou ouvrante         |
+| **Fenêtre salle d’eau**  | Petite fenêtre haute     | 40 × 40 cm | Fenêtre opaque ou basculante     |
+
+---
+
+## 🛋️ Mobilier & agencement
+
+- ✅ Lit mezzanine ou lit fixe 120 cm
+- ✅ Cuisine compacte (2 m) avec frigo + plaques
+- ✅ Table murale rabattable + tabourets
+- ✅ Banquette convertible ou lit 1 place côté jour
+- ✅ Placards hauts + niches de rangement
+
+---
+
+## 🪵 Matériaux suggérés
+
+| Élément             | Matériau recommandé         |
+|----------------------|------------------------------|
+| Cloisons             | OSB, contreplaqué bois huilé |
+| Sol                  | Lino naturel ou parquet bois |
+| Mur / plafond        | OSB peint, chaux, enduit fin |
+| Isolation            | Métisse / ouate + pare-vapeur|
+| Mobilier             | Bois récup ou panneaux légers|
 
 ---
 
 ## 🌬️ Équipements techniques
 
-- VMC simple flux + extraction salle d’eau
-- PAC air/air mural ou convecteur
-- Chauffe-eau instantané ou plat mural
-- Éclairage LED (spots ou rail)
-- Tableau électrique en fond (zone rangement)
+- VMC simple flux ou double flux compact
+- Chauffe-eau instantané ou mural 30 L
+- PAC air/air ou convecteur bas
+- Éclairage LED doux (spots ou rail)
+- Tableau électrique en fond de container
 
 ---
 
@@ -64,7 +74,7 @@
 
 ![[Croquis_Design_Cargo.png]]
 
-> Le croquis représente les zones de vie linéaires et les ouvertures principales, avec une **grande baie vitrée** en fond, **fenêtre cuisine** côté latéral gauche et **fenêtre haute opaque** dans la salle d’eau.
+> Ce croquis sera mis à jour avec l’entrée latérale, baie vitrée en fond, et espaces répartis de manière équilibrée.
 
 ---
 
