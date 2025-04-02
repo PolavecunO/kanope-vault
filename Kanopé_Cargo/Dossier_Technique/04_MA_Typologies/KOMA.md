@@ -1,6 +1,6 @@
-# KO-MA
+# KOMA
 
-### 🔹 KO-MA – Komposé d’Angle
+### 🔹 KOMA – Komposé d’Angle
 
 - Forme : Bloc de 10 containers sur 2 niveaux
 - Usages :
@@ -21,7 +21,7 @@
 
 ## 🧮 Chiffrage – Autoconstruction & Entreprise
 
-> 🛠️ KO-MA repose sur **10 containers**, répartis sur 2 niveaux.  
+> 🛠️ KOMA repose sur **10 containers**, répartis sur 2 niveaux.  
 > - RDC : 4 containers vélos (rack double hauteur, 120 vélos + 120 prises) + 1 technique  
 > - R+1 : 3 containers coworking (open-space) + 1 container **avec 2 à 3 salles de réunion** + 1 container technique  
 > Tous les réseaux sont mutualisés via une colonne technique extérieure adossée au container technique central du RDC.
@@ -38,5 +38,5 @@
 | Colonne technique complète   | 1 double hauteur extérieure| idem                         | 4 500 €           | 6 750 €    |
 | Toiture végétalisée          | 30 m² x 150 €/m²           | 30 m² x 200 €/m²             | 4 500 €           | 6 000 €    |
 
-**Total Autoconstruction** : **175,000 €**  
-**Total Entreprise** : **236,750 €**
+**Total Autoconstruction** : **175 000 €**  
+**Total Entreprise** : **236 750 €**

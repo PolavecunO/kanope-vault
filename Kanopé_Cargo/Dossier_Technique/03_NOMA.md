@@ -105,8 +105,8 @@ Les montants sont donnés à titre indicatif, basés sur les hypothèses de conc
 
 ### 💰 Totaux estimés
 
-- **Autoconstruction** : ~278,960 € TTC
-- **Entreprise (clé en main)** : ~392,340 € TTC
+- **Autoconstruction** : ~278 960 € TTC
+- **Entreprise (clé en main)** : ~392 340 € TTC
 
 ---
 

@@ -1,187 +1,157 @@
-# 🌿 Kanopé — Synthèse du Projet
+# 🌳 Synthèse Projet Kanopé (Avril 2025)
 
-## 1. 🌿 Vision globale de Kanopé
+## 1. 🏠 Vision globale du projet Kanopé
 
-Kanopé est un système d’habitat modulaire, sobre et réversible conçu pour favoriser l’habitat inclusif, l’agriculture urbaine, la mutualisation des ressources et la biodiversité.
+**Kanopé** est une initiative modulaire, bas carbone et sociale visant à répondre aux enjeux de logement abordable, de résilience urbaine et de sobriété matérielle. Elle repose sur un système d’habitat évolutif composé de modules standards adaptables (containers maritimes réemployés), préfabriqués et assemblables en unités de logement ou de service.
 
-Inspiré de la forêt primaire (la "canopée"), Kanopé repose sur trois piliers :
+Le projet porte une **double ambition à long terme** :
 
-- ✨ **Modularité** : des modules combinables selon les besoins
+- La **réhabilitation de bâtiments inoccupés** ou sous-exploités pour les transformer en résidences modulaires vertueuses.
     
-- ♻️ **Écoconception** : matériaux biosourcés et réemployés
-    
-- 🌳 **Nature en ville** : végétalisation et biodiversité intégrées
+- La **construction de résidences neuves**, à haute qualité environnementale, pouvant être déployées en milieu urbain ou périurbain.
     
 
-Kanopé peut servir à créer des logements, tiers-lieux, espaces de travail, structures collectives ou intergénérationnelles sur des fonciers libres, transitoires ou sous-utilisés.
+Le projet comprend deux dimensions :
 
----
-
-## 2. 🏢 Kanopé Cargo : la structure par container
-
-Kanopé Cargo repose sur la **transformation de containers maritimes** pour concevoir des unités habitables modulables.
-
-### ▶ Objectifs :
-
-- Offrir un habitat décent, abordable et bas-carbone
+- **Kanopé Cargo** : déploiement modulaire dense en milieu urbain, ancré autour des BLOK et des modules ULI.
     
-- Utiliser l'existant (upcycling de containers)
-    
-- Permettre une mise en œuvre rapide, réversible et déplaçable
-    
-
-### ▶ Principes techniques :
-
-- Containers HC ou standard selon les usages
-    
-- Isolation biosourcée renforcée (sols, murs, plafonds)
-    
-- Modules électriques, plomberie, ventilation mutualisés
-    
-- Toits végétalisés ou techniques (filets PV, biodiversité)
+- **Kanopé Global / Kanopôle** : extension à l'échelle d'un quartier entier, pour des configurations territoriales complètes (prévu à un stade ultérieur de développement).
     
 
 ---
 
-## 3. 🏠 Les modules habitables
+## 2. 🏢 Kanopé Cargo : structure modulaire de base
 
-Chaque module est conçu pour être autonome ou combinable, et intégrer des usages complémentaires.
+Kanopé Cargo s'articule autour de 3 éléments clés :
 
-### ▶ Typologies principales :
+- **Modules ULI** : Unités de Logement Individuelles (ULIA, ULINA, etc.), réalisées à partir de 12 containers standards.
+    
+    - Un **ULIO** est une unité ULIA autonome, **fonctionnant sans dépendance directe aux MA ou au BLOK**, pouvant exister seule ou à petite échelle. Il constitue la forme la plus flexible du système.
+        
+- **Modules MA** : Modules d’Activité (commerce, soin, culture, FabLab, etc.), insérables dans les angles ou les extensions.
+    
+- **BLOK** : combinaison modulaire dense de 9 modules comprenant logements, MA, et modules techniques (NOMA, KOMA).
+    
 
-- **ULI-A** : Unité de Logement Intelligente Autonome
-    
-    - 10 logements simples répartis sur **12 containers**
-        
-    - Organisation U-L-I en 3 niveaux (RDC, R+1, R+2)
-        
-    - Zone commune en RDC, terrasses partagées
-        
-- **ULI-NA** : Variante "fusionnée"
-    
-    - **8 logements** dont 2 de 2 containers
-        
-    - Idéal pour couples, familles ou coliving léger
-        
-    - Compatible avec la structure ULI-A (mixable dans un BLOK)
-        
-- **MA (Modules d'Angle)** :
-    
-    - **LU-MA** : 2 logements de 2 containers (T2), PMR possible
-        
-    - **TE-MA** : 4 studios compacts avec circulation centralisée
-        
-    - **GA-MA** : 2 logements familiaux ou coliving (T3/T4)
-        
-    - **KO-MA** : Module d'équipements (coworking, vélos, stockage énergétique)
-        
-- **NOMA** : Module central de pilotage et de vie
-    
-    - Gestion des réseaux (élec, eau, fibre, domotique)
-        
-    - Espaces communs partagés (cuisine, salon, services)
-        
-    - **Cour centrale** avec terrasse, bassin et végétation
-        
-
-Chaque module intègre des colonnes techniques verticales mutualisées pour la distribution des fluides, et respecte les principes de compacité, ventilation naturelle, confort thermique et réversibilité.
+Un BLOK-C forme la base commune : 4 ULIA + NOMA + KOMA + 3 MA.
 
 ---
 
-## 4. 🛠️ L’aménagement des containers
+## 3. 📊 Vers une stratégie recentrée : priorité à l’ULI
 
-### ▶ Étapes de transformation :
+Depuis avril 2025, le projet a évolué vers une stratégie de **priorisation des ULI** (et de leur variante autonome ULIO). Les raisons de ce recentrage sont :
 
-1. Nettoyage et traitement anti-corrosion
+- Le Kanopôle, ambitieux et à grande échelle, est **reprogrammé pour une phase ultérieure** du développement.
     
-2. Isolation biosourcée (laine de bois, liège...)
+- Le développement d’un prototype ULIO est devenu la **prochaine étape concrète**.
     
-3. Ouvertures, renforts structurels
-    
-4. Installation réseaux (eau, élec, VMC)
-    
-5. Cloisons intérieures modulaires
-    
-6. Bardage extérieur (bois, métallique)
-    
-
-Chaque container est conçu pour accueillir 1 à 2 personnes selon les modèles, avec un haut niveau de confort et une optimisation maximale de l’espace.
-
----
-
-## 5. 🏘️ BLOK : structure optimisée en 9 modules
-
-Le **BLOK** est une structure modulaire de référence combinant 9 modules pour créer un ensemble dense, fonctionnel et interconnecté.
-
-### ▶ Composition standard :
-
-- **4 x ULI-A ou ULI-NA** : cœur résidentiel
-    
-- **1 x NOMA** : centre névralgique, pilotage réseau, cour commune
-    
-- **1 x KO-MA** : coworking + local vélos + stockage batteries (240 kWh)
-    
-- **3 x MA** : modules d’angle selon contexte (logements, coliving, activité)
-    
-
-### ▶ Fonctionnalités clés :
-
-- Jusqu'à **48 logements** dans sa version la plus dense (ULI-A + TEMA x3)
-    
-- Jusqu’à **40 logements spacieux** dans la version BLOK-4N (ULI-NA + GAMA x3)
-    
-- Surface utile totale : **~1 200 m²**
-    
-- Surface foncière nécessaire : **entre 1 400 et 2 000 m²**
-    
-- **Autonomie énergétique** assurée par filets photovoltaïques (~848 m²) + batteries KO-MA
-    
-- **Gestion centralisée** des fluides, internet, fibre et domotique via le NOMA
-    
-- **Stationnements** réglementaires (40 à 48 places, bornes EV)
-    
-- **Espaces verts mutualisés**, jardins partagés, traverses végétalisées et nichoirs
-    
-- **Installation/démontage rapide** : environ **6 mois** pour un BLOK complet
-    
-
-### ▶ Versions :
-
-- **BLOK-C** : 4 x ULI-A sans modules d'angle, 40 logements, stationnements à la place des MA
-    
-- **BLOK-iN** : 1 à 4 x ULI-NA selon le besoin, de 40 à 48 logements selon les MA
-    
-
-Chaque BLOK est conçu pour s’insérer dans différents contextes : village linéaire, site diffus ou foncier vacant.
-
----
-
-## 6. 🌍 Un projet écologique et reproductible
-
-- Matériaux biosourcés / réutilisés
-    
-- Gestion d’eau pluviale, énergie solaire, fibre
-    
-- Mobilité douce : local vélo, bornes de recharge EV
-    
-- Écoconception des traverses (structure + biodiversité + énergie + données)
-    
-- Reproductible sur fonciers libres, transitoires ou temporaires
+- La standardisation des ULI permet un déploiement itératif, plus rapide, plus abordable.
     
 
 ---
 
-## 7. 📄 Perspectives
+## 4. 🏡 Les typologies d’ULI : base du système
 
-- 🔹 Création de hameaux ou de villages Kanopé
+### 4.1 ULIA
+
+- Logement standard 12m, 1 à 2 colocataires, 40 à 45 m²
     
-- 🏥 Adaptation pour tiers-lieux, PMR, seniors, coliving
+- Modules empilables (R+2), raccordables aux réseaux collectifs
     
-- 🌿 Intégration renforcée biodiversité et agriculture urbaine
+
+### 4.2 ULINA
+
+- Variante élargie / équipée, + terrasse ou cloisonnement adapté
     
-- 🏗️ Développement de résidences neuves ou hybridation de bâtiments existants
+- Vise une durée d’occupation plus longue / familles / PMR
+    
+
+### 4.3 ULIMA, ULIFA
+
+- Modules intermédiaires / familiaux, ou logement avec activité (atelier, pro)
+    
+- Étudiés selon besoins spécifiques
     
 
 ---
 
-> Pour toute demande de présentation détaillée, plans ou modèles : [[Contact Kanopé]]
+## 5. ⚖️ Critères clés pour le développement des ULI
+
+### 5.1 Standardisation constructive
+
+- **Trame de perçage universelle**
+    
+- Modules compatibles entre eux (structure, réseaux, cloisonnement)
+    
+- Préfabrication maximale en atelier
+    
+
+### 5.2 Optimisation réseaux
+
+- Réduction des redondances (eau, élec, fibre, VMC)
+    
+- Regroupement dans traverses techniques
+    
+- Réseau domotique centralisé (pilotage NOMA)
+    
+
+### 5.3 Système modulaire Kanopé
+
+- Mobilier ajustable / pliable / réversible
+    
+- Découpes standardisées (portes, ouvertures, fixations)
+    
+- Kits de montage open-source (FabLab)
+    
+
+### 5.4 Objectifs environnementaux et sociétaux
+
+- **Réduction du coût par unité** (< 60 000 € visé)
+    
+- **Recyclage et réemploi systématiques**, matériaux biosourcés prioritaires
+    
+- Favoriser **l’auto construction** et les **chantiers participatifs**
+    
+- **Loyers bas ciblés pour étudiants et jeunes actifs**, en particulier les plus précaires
+    
+- Création de **lieux de vie confortables et de qualité** à très faible impact
+    
+
+---
+
+## 6. 📊 Esquisse d'un scénario de prototype ULIO
+
+**Objectif** : construire et tester un ULIO autonome à léchelle 1, avec toutes ses fonctions (habitat + réseaux + domotique).
+
+### Implantation envisagée
+
+- 🔹 **Poitiers ou Le Mans** : ville moyenne avec foncier accessible
+    
+- 🔹 **Paris-Saclay** : si accès à un terrain via un partenariat universitaire
+    
+    - Objectif : offrir une solution de logement digne à des étudiants en difficulté, dans un contexte de forte tension foncière
+        
+
+### Intégration
+
+- Implantation temporaire / démontable
+    
+- Connexion réseaux simplifiée ou autarcie temporaire
+    
+- Suivi d’usage sur 6 à 12 mois
+    
+
+### Objectifs du test
+
+- Tester la performance thermique / énergétique réelle
+    
+- Évaluer la facilité de montage, transport, adaptation
+    
+- Recueillir retours d’usages / UX
+    
+
+---
+
+## 7. 🔄 Conclusion
+
+Le recentrage sur les **ULI** permet au projet Kanopé de gagner en clarté, en efficacité et en concrétisation. La phase prototype est une étape décisive, autant technique que symbolique. C’est à travers ce module que se déclinera ensuite tout l’écosystème Kanopé.

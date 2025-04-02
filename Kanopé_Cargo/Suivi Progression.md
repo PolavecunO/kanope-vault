@@ -1,59 +1,113 @@
-# ✅ Suivi des Étapes Stratégiques – Projet Kanopé
+# ✅ Suivi des Étapes Stratégiques – Projet **Kanopé : Phase ULI / Prototype**
 
-Fiche de suivi des grandes étapes à réaliser pour finaliser et structurer le projet Kanopé (Cargo & Global).
+> 🎯 **Objectif 2025 : Concevoir un ULI complet, optimisé et modulaire, prêt à être prototypé.**
 
 ---
 
 ## 📌 Légende
 
-- 🔴 **Priorité haute**
-- 🟠 **Priorité moyenne**
-- 🟢 **Priorité basse**
+- 🔴 **Priorité stratégique immédiate (prototype ULI)**
+    
+- 🟠 **Priorité support (outils & documentation)**
+    
+- 🟢 **Mise en attente (post-prototype)**
+    
+- ✅ **Fait**
+    
 
 ---
 
-## 🔴 Étapes prioritaires
+## 🔴 Priorités immédiates (Prototype ULI)
 
-- [ ] 🔴 Définir la répartition des gestions globales vs. logement
-- [ ] 🔴 Intégrer cette répartition dans la fiche BLOK
-- [ ] 🔴 Mentionner l’absence de terrain dans les coûts de BLOK
-- [ ] 🔴 Ajouter les surfaces au sol de BLOK-C et BLOK-iN
-- [ ] 🔴 Créer ou adapter la fiche KO-MA pour inclure uniquement le stockage
-- [ ] 🔴 Corriger l’erreur sur le nombre de containers dans les ULI (12 au lieu de 10)
-
----
-
-## 🟠 Étapes secondaires
-
-- [ ] 🟠 Définir les typologies de logements (1C / 2C / 3C)
-- [ ] 🟠 Créer une fiche par type de logement avec surface, usage, chiffrage
-- [ ] 🟠 Détail complet de chaque module (ULI-A, ULI-NA, MA, KO-MA, NOMA)
-- [ ] 🟠 Ajouter la fiche de synthèse BLOK en format visuel (tableau ou carte)
-- [ ] 🟠 Explorer la possibilité d’ajouter des **locaux commerciaux** au RDC de certains modules (remplacement zone commune ou autre usage)
-
----
-
-## 🟢 Structuration globale
-
-- [ ] 🟢 Adapter les fiches Kanopé Cargo aux nouvelles normes BLOK/modules
-- [ ] 🟢 Adapter la fiche Kanopé globale avec synthèse en 5–10 pages
-- [ ] 🟢 Refaire la navigation logique entre fiches (liens croisés)
-- [ ] 🟢 Créer un index interactif ou arborescence de navigation
-
----
-
-## 🛠️ Notes techniques à suivre
-
-- [ ] Stockage = 240 kWh centralisé (KO-MA)
-- [ ] Supervision énergétique, réseau, domotique depuis NOMA
-- [ ] Traverses = fibre + élec + biodiversité
-- [ ] BLOK = surface constante (env. 1200 m² utile), logements entre 40 et 48
-- [ ] Filets PV = production totale estimée ~101 760 kWh/an
+-  🔴 **Définir la roadmap prototype (ULI / ULIO)**
+    
+    - Structuration par phase : étude → plans → modélisation → prototype
+        
+    - Fixer jalons trimestriels jusqu’au test
+        
+    - Geler les Kanopôles, BLOK-L, etc. à ce stade
+        
+-  🔴 **Consolider l’architecture des ULI (ULIA, ULINA, etc.)**
+    
+    - Structure interne, variantes, performance thermique
+        
+    - Compatibilité modules (logement, réseau, cloison)
+        
+    - Modularité : empilement, latéralité, adaptabilité
+        
+-  🔴 **Intégrer un système modulaire unifié**
+    
+    - Trame de perçage, standards de découpe
+        
+    - Mobilier intégré et démontable (optimisé container)
+        
+    - Réutilisation des chutes, logique FabLab
+        
+-  🔴 **Préparer un scénario de prototype ULI**
+    
+    - Emplacement possible / contexte réel
+        
+    - Estimation coûts / appro / partenaires
+        
+    - Mise en œuvre du module avec traverses & équipements
+        
 
 ---
 
-## 🔄 Suivi des prochaines décisions
+## 🟠 Supports à développer en parallèle
 
-- [ ] Décision sur les interfaces / formes finales des fiches modules
-- [ ] Format des fiches logements (grille ou rédaction ?)
-- [ ] Modèle graphique pour la synthèse Kanopé
+-  🟠 **Fiches typologies logements (1C / 2C / 3C)**
+    
+    - Plans, capacité, compatibilité container
+        
+    - Déclinaisons simples, modulables, économiques
+        
+-  🟠 **Stratégies de réduction de coûts**
+    
+    - Structure / cloisonnement intelligent
+        
+    - Production participative, récupération / mutualisation
+        
+    - Optimisation thermique passive
+        
+-  🟠 **Format rédactionnel et graphique des fiches**
+    
+    - Gabarit de fiche modulaire (ULI, composant, usage, coût)
+        
+    - Versions web et PDF (présentation partenaires)
+        
+
+---
+
+## 🟢 En attente (post-prototype / phase 2)
+
+-  🟢 **Kanopôle / BLOK-L / extensions territoriales**
+    
+    - Reprendre après retour d’expérience du prototype ULI
+        
+    - Garder fiches en base
+        
+-  🟢 **Fiche synthèse Kanopé**
+    
+    - À finaliser après prototype pour diffusion externe
+        
+-  🟢 **Index interactif / carte mentale**
+    
+    - À créer quand les modules seront bien structurés
+        
+
+---
+
+## ✅ Fait
+
+- ✅ Typologies ULI définies (ULIA, ULINA, etc.) – _2025-04-02_
+    
+- ✅ Modules MA spécialisés développés
+    
+- ✅ Fiches BLOK et Kanopôle rédigées & chiffrées
+    
+- ✅ Simulation financière complète (emprunts, loyers, apports)
+    
+- ✅ Calculs d’emprise au sol et taille de parcelle
+    
+- ✅ Nettoyage nomenclature (suppression tirets, unification noms)
