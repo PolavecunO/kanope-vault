@@ -11,7 +11,7 @@ Ce Vault regroupe l’ensemble des réflexions, modules, simulations et outils l
 
 - [[00_Carte_du_Vault]]
 - [[00_Pitch_Kanope]]
-- [[00_Synthese_Partageable]]
+- [[Présentation_Kanopé]]
 - [[00_Manifeste_Narratif]]
 
 ---

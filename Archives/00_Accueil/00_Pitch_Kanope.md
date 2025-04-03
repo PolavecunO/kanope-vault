@@ -26,4 +26,4 @@ Kanopé est un concept d’habitat **écologique, modulaire et ancré dans son t
 - Options de matériaux locaux ou réemployés
 - Gammes adaptées à chaque public
 
-📎 Voir aussi : [[00_Synthese_Partageable]]
+📎 Voir aussi : [[Présentation_Kanopé]]

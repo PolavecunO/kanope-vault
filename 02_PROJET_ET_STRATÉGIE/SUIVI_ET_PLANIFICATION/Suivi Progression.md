@@ -89,7 +89,7 @@
         
 -  🟢 **Fiche synthèse Kanopé**
     
-    - À finaliser après prototype pour diffusion externe
+    - À finaliser après prototype pour diffusion externe, et actualiser après chaque avancée majeure
         
 -  🟢 **Index interactif / carte mentale**
     
